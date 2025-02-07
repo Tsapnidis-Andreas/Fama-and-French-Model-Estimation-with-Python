@@ -42,10 +42,17 @@ The data for the five factors have been retrieved from the online library of Ken
 
 ## Results:
 ![Στιγμιότυπο οθόνης 2025-02-05 194431](https://github.com/user-attachments/assets/e8acd7e7-3f37-47ec-914b-87f02646d3db)
+
+
 ![Στιγμιότυπο οθόνης 2025-02-05 194444](https://github.com/user-attachments/assets/79f2fd8c-0f72-4bcd-a90f-23902cb715c2)
 
 
 
 ![Partial Autocorrelation Plot](https://github.com/user-attachments/assets/1ea1d0d0-0fe6-45b5-b6f7-1e41d919d860)
+
+
+
 ![Normality](https://github.com/user-attachments/assets/7b7b0a14-bbb5-4513-92f1-8b4f14ecfe87)
+
+
 ![Residuals vs Fitted Values](https://github.com/user-attachments/assets/aefa4d18-a696-4520-a027-0d8b6fa2f536)
