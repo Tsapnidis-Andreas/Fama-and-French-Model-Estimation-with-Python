@@ -41,18 +41,19 @@ The data for the five factors have been retrieved from the online library of Ken
 
 
 ## Results:
-![Στιγμιότυπο οθόνης 2025-02-05 194431](https://github.com/user-attachments/assets/e8acd7e7-3f37-47ec-914b-87f02646d3db)
+
+![Στιγμιότυπο οθόνης 2025-02-05 194431](https://github.com/user-attachments/assets/2048190e-5b48-4dd8-87eb-4f21c0f17985)
 
 
-![Στιγμιότυπο οθόνης 2025-02-05 194444](https://github.com/user-attachments/assets/79f2fd8c-0f72-4bcd-a90f-23902cb715c2)
+![Στιγμιότυπο οθόνης 2025-02-05 194444](https://github.com/user-attachments/assets/16d7534b-b538-4376-aba7-56aa6fff9ec1)
 
+![Partial Autocorrelation Plot](https://github.com/user-attachments/assets/ca5f9a9e-b2ac-435d-8d03-b74b394c8be3)
 
+![Normality](https://github.com/user-attachments/assets/4628b1f1-cb55-4574-92cb-66ced44117d4)
 
-![Partial Autocorrelation Plot](https://github.com/user-attachments/assets/1ea1d0d0-0fe6-45b5-b6f7-1e41d919d860)
+![Residuals vs Fitted Values](https://github.com/user-attachments/assets/d9720b57-99e3-4b98-8323-4ceb2c7da25b)
 
+# Disclaimer
 
-
-![Normality](https://github.com/user-attachments/assets/7b7b0a14-bbb5-4513-92f1-8b4f14ecfe87)
-
-
-![Residuals vs Fitted Values](https://github.com/user-attachments/assets/aefa4d18-a696-4520-a027-0d8b6fa2f536)
+This project serves educational purposes only. <br>
+Under no circumstances should it be used as an actual investing tool.
